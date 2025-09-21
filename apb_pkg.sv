@@ -7,7 +7,7 @@ package apb_pkg;
   `include "apb_driver.sv"
   `include "apb_monitor.sv"
   `include "apb_agent.sv"
-  `include "apb_scoreboard2.sv"
+  `include "apb_scoreboard.sv"
   //`include "apb_coverage.sv"
   `include "apb_environment.sv"
   `include "apb_test.sv"
